@@ -87,8 +87,8 @@ The input field will get this placeholder text.
 
 #### types
 
-Type: `String`
-Default: `address`
+Type: `String | Array`
+Default: null
 
 Types supported in place autocomplete requests. [More info](https://developers.google.com/places/supported_types#table3)
 
